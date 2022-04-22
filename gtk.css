@@ -5,8 +5,6 @@ You can temporarily disable this custom CSS by clicking on the “Pause” butto
 Changes are applied instantly and globally, for the whole application.
 */
 
-/* Put this under ~/.config/gtk-3.0/gtk.css */
-
 .nautilus-window notebook > stack {
   background-image: url("/home/dutch/gallery/test.jpg");
   background-repeat: no-repeat;
