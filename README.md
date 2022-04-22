@@ -9,7 +9,7 @@ For more information about the wonders of theming please [visit this link](https
 
 ### Install
 
-Put both the gallery and the gtk.css file under this directory
+Put both the `gallery` folder and the `gtk.css` file under this directory
 
 ```
 ~/.config/gtk-3.0/
