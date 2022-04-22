@@ -1,10 +1,11 @@
 # AbsolutelyAwful
 
 > Absolutely Awful is a gtk.css tweak to make you question why humans had to exist.
+> <sup>thanks to a fellow redditor for providing the name for this project</sup>
 
 For more information about the wonders of theming please [visit this link](https://stopthemingmy.app/)
 
-### Install 
+### Install
 
 Put both the gallery and the gtk.css file under this directory
 
