@@ -1,4 +1,4 @@
-# AbsolutelyAwful
+# Absolutely Awful
 
 > Absolutely Awful is a gtk.css tweak to make you question why humans had to exist.
 > <sup>thanks to a fellow redditor for providing the name for this project</sup>
