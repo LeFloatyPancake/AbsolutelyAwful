@@ -1,0 +1,97 @@
+/*
+You can type here any CSS rule recognized by GTK+.
+You can temporarily disable this custom CSS by clicking on the “Pause” button above.
+
+Changes are applied instantly and globally, for the whole application.
+*/
+
+/* Put this under ~/.config/gtk-3.0/gtk.css */
+
+.nautilus-window notebook > stack {
+  background-image: url("/home/dutch/gallery/test.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+popover.background {
+  background-image: url("/home/dutch/gallery/b69.png");
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+window.background.csd { 
+  background-image: url("/home/dutch/gallery/index.png"); 
+  background-size: 200px;
+  background-position: bottom right;
+}
+
+placessidebar viewport {
+  background-image: url("/home/dutch/gallery/capn.jpeg"); 
+  background-size: 500px;
+  background-position: bottom center;
+}
+
+preferencesgroup row {
+  background-image: url("/home/dutch/gallery/illu.jpg");
+  background-size: 500px;
+  background-position: center;
+}
+
+window.background.csd > deck > box > notebook > stack {
+  background-image: url("/home/dutch/gallery/spongebob.jpg");
+  background-size: 700px; 
+  background-position: center;
+}
+
+window.background.csd > deck > box > notebook > header {
+  background-image: url("/home/dutch/gallery/micro.svg");
+  background-size: 170px; 
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+button image {
+  background-image: url("/home/dutch/gallery/index.png"); 
+  background-size: 25px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+button:checked image {
+  background-image: url("/home/dutch/gallery/arch.svg"); 
+  background-size: 25px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+headerbar {
+  background-image: url("/home/dutch/gallery/14447.png"); 
+  background-size: 100px;
+  background-position: top center;
+}
+
+.sidebar-label {
+  color:transparent;
+}
+
+treeview.view {
+  background-image: url("/home/dutch/gallery/harold.jpg"); 
+  background-size: 900px;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+notebook > header > tabs > tab.reorderable-page {
+  background-image: url("/home/dutch/gallery/ubuntu.svg"); 
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+notebook > header > tabs > tab.reorderable-page:checked {
+  background-image: url("/home/dutch/gallery/micro.svg"); 
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: left;
+}
