@@ -9,5 +9,5 @@ For more information about the wonders of theming please [visit this link](https
 Put both the gallery and the gtk.css file under this directory
 
 ```
-~/.config/gtk-3.0/gtk.css
+~/.config/gtk-3.0/
 ```
