@@ -1,3 +1,3 @@
 # AbsolutelyAwful
 
-So awful ou have to fix the `url()` yourself
+So awful you have to fix the `url()` yourself to point to the images
