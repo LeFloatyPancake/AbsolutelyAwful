@@ -14,3 +14,5 @@ Put both the `gallery` folder and the `gtk.css` file under this directory
 ```
 ~/.config/gtk-3.0/
 ```
+
+![](gallery/why.jpg)
