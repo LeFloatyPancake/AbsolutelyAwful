@@ -2,6 +2,12 @@
 
 > Absolutely Awful is a gtk.css tweak to make you question why humans had to exist.
 
-So awful you have to fix the `url()` yourself to point to the images. Mah lazy bum ain gon bother.
+For more information about the wonders of theming please [visit this link](https://stopthemingmy.app/)
 
-Put this under `~/.config/gtk-3.0/gtk.css`
+### Install 
+
+Put both the gallery and the gtk.css file under this directory
+
+```
+~/.config/gtk-3.0/gtk.css
+```
