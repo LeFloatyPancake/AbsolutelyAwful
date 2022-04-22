@@ -5,7 +5,7 @@
 
 https://user-images.githubusercontent.com/83509112/164725592-bbee06e0-50c2-4bae-9d67-fb0b1100e825.mp4
 
-For more information about the wonders of theming please [visit this link](https://stopthemingmy.app/)
+For more information about the wonders of theming please [**visit this link**](https://stopthemingmy.app/)
 
 ### Install
 
